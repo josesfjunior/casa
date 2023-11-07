@@ -1,8 +1,8 @@
-# Casa dos Sonhos
+# Casa
 
 ## Paleta de Cores
 
-A decoração da Casa dos Sonhos é inspirada em uma paleta de cores naturais e aconchegantes, que cria um ambiente acolhedor e harmonioso. Abaixo, você encontrará as cores principais usadas na casa, cada uma com seu nome e código hexadecimal correspondente:
+A decoração da Casa é inspirada em uma paleta de cores naturais e aconchegantes, que cria um ambiente acolhedor e harmonioso. Abaixo, você encontrará as cores principais usadas na casa, cada uma com seu nome e código hexadecimal correspondente:
 
 - <span style="color: #582F0E;">Café Rústico (#582F0E)</span>
 - <span style="color: #7F4F24;">Terracota Quente (#7F4F24)</span>
@@ -15,4 +15,4 @@ A decoração da Casa dos Sonhos é inspirada em uma paleta de cores naturais e 
 - <span style="color: #414833;">Verde Floresta (#414833)</span>
 - <span style="color: #333D29;">Verde Sombrio (#333D29)</span>
 
-Essas cores foram cuidadosamente selecionadas para criar um ambiente aconchegante e convidativo na Casa dos Sonhos.
+
