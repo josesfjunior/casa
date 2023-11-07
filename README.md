@@ -16,3 +16,5 @@ A decoração da Casa é inspirada em uma paleta de cores naturais e aconchegant
 - ![#333D29](https://placehold.co/15x15/333D29/333D29.png) `Verde Sombrio (#333D29)`
 
 Essas cores foram cuidadosamente selecionadas para criar um ambiente aconchegante e convidativo na Casa dos Sonhos.
+
+![Paleta](https://github.com/josesfjunior/casa/blob/main/Paleta.jpeg?raw=true)
